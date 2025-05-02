@@ -5,8 +5,7 @@
   "spacing": 4,
   "modules-left": [
     "custom/arch",
-    "hyprland/workspaces",
-    "wlr/taskbar"
+    "hyprland/workspaces"
   ],
   "modules-center": [
     "custom/spotify"
